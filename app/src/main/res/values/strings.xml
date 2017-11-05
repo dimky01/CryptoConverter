@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoCurrency Converter</string>
+    <string name="welcomeText">Here you find the latest exchange rate between cryptocurrencies (BTC and ETH) and 20 major world currencies including Naira.</string>
+</resources>
